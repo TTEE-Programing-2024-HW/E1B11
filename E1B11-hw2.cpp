@@ -1,6 +1,7 @@
 #include <stdio.h> 
 #include <stdlib.h>
 #include <conio.h>
+
 /*輸出個人風格主畫面*/
 int main(void){
 	printf(" ____________________________\n");

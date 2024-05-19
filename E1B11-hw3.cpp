@@ -423,6 +423,7 @@ char board[rows][cols];
 	system("pause");
 	system("CLS");
 }
+
 if(ch==98)
 {
 	int ans;

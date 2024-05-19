@@ -252,7 +252,6 @@ void pseat3(char sit3[row3][col3])
 	
 }
 
-
 #define row4 9
 #define col4 9
 #define star4 10

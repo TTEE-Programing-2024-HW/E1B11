@@ -423,6 +423,7 @@ char board[rows][cols];
 	system("pause");
 	system("CLS");
 }
+
 if(ch==98)
 {
 	int ans;
@@ -453,7 +454,6 @@ char sit1[row1][col1];
 	system("CLS");
 	}
 }
-
 else if(seats==2)
 {
 printf("\\123456789\n");

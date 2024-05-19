@@ -366,7 +366,6 @@ int main(void){
 	system ("PAUSE");
 	system ("CLS");
 
-
 int password;
 int i=0;
 	for(i=0;i<3;i++)

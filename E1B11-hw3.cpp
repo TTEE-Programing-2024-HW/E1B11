@@ -476,7 +476,6 @@ char sit2[row2][col2];
 	system("CLS");
 	}
 }
-
 else if(seats==3)
 {
 printf("\\123456789\n");

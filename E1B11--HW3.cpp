@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+
 void printWelcomeScreen() {
     printf(" ____________________________\n");
     printf("|          Welcome!          |¢©\n");

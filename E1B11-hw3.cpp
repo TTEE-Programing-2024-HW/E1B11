@@ -3,7 +3,6 @@
 #include<conio.h>
 #include<time.h>
 
-
 #define ROW 9
 #define COL 9
 #define STAR_COUNT 10

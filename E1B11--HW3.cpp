@@ -88,7 +88,6 @@ void printMenu() { // Main menu
     printf("-------------------------------------------\n");
 }
 
-
 int findrandSeat(char seats[ROWS][COLS], int *row, int *col) { // Choose one seat
     int att = 0;
     int max_att = ROWS * COLS;
